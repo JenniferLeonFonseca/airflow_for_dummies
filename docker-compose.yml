@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  testing-local:
+    build: .
+    volumes:
+      - .:/prueba
+    container_name: testing.local

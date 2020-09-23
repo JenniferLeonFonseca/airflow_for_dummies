@@ -1,0 +1,2 @@
+apache-airflow==1.10.3
+uwsgi==2.0.15
